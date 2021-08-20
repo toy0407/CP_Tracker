@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172749581509",
+    "project_id": "cp-tracker-2fc85",
+    "storage_bucket": "cp-tracker-2fc85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172749581509:android:03c76f63e95d263e2e54ac",
+        "android_client_info": {
+          "package_name": "com.toy0407.cptracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172749581509-i492eav5okps9rg433gmhklp8q7otm3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyHcKLOvQO5RwhxBp0vYa6Kn2hUeKvC1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172749581509-i492eav5okps9rg433gmhklp8q7otm3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
